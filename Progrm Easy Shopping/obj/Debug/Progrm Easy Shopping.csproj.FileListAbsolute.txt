@@ -1,0 +1,21 @@
+D:\Stady\ПППИ\Progrm Easy Shopping\Progrm Easy Shopping\bin\Debug\Progrm Easy Shopping.exe.config
+D:\Stady\ПППИ\Progrm Easy Shopping\Progrm Easy Shopping\bin\Debug\Progrm Easy Shopping.exe
+D:\Stady\ПППИ\Progrm Easy Shopping\Progrm Easy Shopping\bin\Debug\Progrm Easy Shopping.pdb
+D:\Stady\ПППИ\Progrm Easy Shopping\Progrm Easy Shopping\obj\Debug\Progrm Easy Shopping.csprojAssemblyReference.cache
+D:\Stady\ПППИ\Progrm Easy Shopping\Progrm Easy Shopping\obj\Debug\Progrm_Easy_Shopping.Properties.Resources.resources
+D:\Stady\ПППИ\Progrm Easy Shopping\Progrm Easy Shopping\obj\Debug\Progrm Easy Shopping.csproj.GenerateResource.cache
+D:\Stady\ПППИ\Progrm Easy Shopping\Progrm Easy Shopping\obj\Debug\Progrm Easy Shopping.csproj.CoreCompileInputs.cache
+D:\Stady\ПППИ\Progrm Easy Shopping\Progrm Easy Shopping\obj\Debug\Progrm Easy Shopping.exe
+D:\Stady\ПППИ\Progrm Easy Shopping\Progrm Easy Shopping\obj\Debug\Progrm Easy Shopping.pdb
+D:\Stady\ПППИ\Progrm Easy Shopping\Progrm Easy Shopping\obj\Debug\Progrm_Easy_Shopping.Easy_Shopping.resources
+D:\Stady\ПППИ\Progrm Easy Shopping\Progrm Easy Shopping\obj\Debug\Progrm_Easy_Shopping.ClientPanelForm.resources
+D:\Stady\ПППИ\Progrm Easy Shopping\Progrm Easy Shopping\bin\Debug\MySql.Data.dll
+D:\Stady\ПППИ\Progrm Easy Shopping\Progrm Easy Shopping\bin\Debug\Google.Protobuf.dll
+D:\Stady\ПППИ\Progrm Easy Shopping\Progrm Easy Shopping\bin\Debug\BouncyCastle.Crypto.dll
+D:\Stady\ПППИ\Progrm Easy Shopping\Progrm Easy Shopping\bin\Debug\Renci.SshNet.dll
+D:\Stady\ПППИ\Progrm Easy Shopping\Progrm Easy Shopping\bin\Debug\MySql.Data.xml
+D:\Stady\ПППИ\Progrm Easy Shopping\Progrm Easy Shopping\obj\Debug\Progrm_Easy_Shopping.AddThingPanel.resources
+D:\Stady\ПППИ\Progrm Easy Shopping\Progrm Easy Shopping\obj\Debug\Progrm_Easy_Shopping.AddClientForm.resources
+D:\Stady\ПППИ\Progrm Easy Shopping\Progrm Easy Shopping\obj\Debug\Progrm_Easy_Shopping.AdminPanel.resources
+D:\Stady\ПППИ\Progrm Easy Shopping\Progrm Easy Shopping\obj\Debug\Progrm Easy Shopping.csproj.CopyComplete
+D:\Stady\ПППИ\Progrm Easy Shopping\Progrm Easy Shopping\obj\Debug\Progrm_Easy_Shopping.Form1.resources
